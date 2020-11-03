@@ -27,3 +27,6 @@ flutter emulators nomeEmulador
 
 -Criar projeto Flutter
 flutter create flutter1
+
+-Iniciar Flutter
+flutter run
