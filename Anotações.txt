@@ -1,0 +1,29 @@
+- Instalar Flutter
+https://flutter.dev/docs/get-started/install/windows
+
+- Analisa o que falta
+C:\src\flutter>flutter doctor
+
+- Configurar variável de ambiente
+Ex: Novo Path
+C:\Desenvolvimento\Flutter\flutter_windows_1.22.3-stable\flutter\bin
+
+- Instalar Android SDK + Android Studio
+https://developer.android.com/studio
+
+- Instalar Flutter nos plugins do android studio
+Abra o android studio/configurações/plugins/flutter
+
+-Instalar Flutter e Dart no VSCode
+
+- Aceitar licenças
+flutter doctor --android-licenses
+
+-Visualizar emuladores
+flutter emulators
+
+-Rodar emulador
+flutter emulators nomeEmulador
+
+-Criar projeto Flutter
+flutter create flutter1
